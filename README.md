@@ -1,2 +1,2 @@
-GitHub: @mblakley4-keap
+GitHub: @mblakley4-keap \
 Slack: @mikeB
